@@ -1,5 +1,14 @@
 // ▼▼▼ 更新履歴データ（ここを編集して履歴を追加します） ▼▼▼
 const CHANGELOG = [
+   {
+    ver: "v1.0.3",
+    date: "2026-09-05",
+    desc: {
+      ja: "<ul><li>通常動画でコメント欄が無限に再読み込みされる不具合を修正。</li><li>内部実装を見直し、他の拡張機能やYouTube本体の動作への影響を軽減。</li></ul>",
+      en: "<ul><li>Fixed a bug causing comments to reload infinitely on regular (non-live) videos.</li><li>Refactored internal implementation to reduce interference with other extensions and YouTube itself.</li></ul>"
+    }
+  },
+
    { 
     ver: "v1.0.2",
     date: "2025-12-09", 
