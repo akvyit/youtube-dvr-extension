@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "Enable YouTube DVR -PRO-" },
+  "appDesc": { "message": "Force enable DVR for YouTube Live." },
+  "statusLabel": { "message": "Current Status: " },
+  "statusOn": { "message": "ON" },
+  "statusOff": { "message": "OFF" },
+  "reloadMsg": { "message": "Reload required to apply changes." },
+  "reloadBtn": { "message": "↻ Reload Page" },
+
+  "welcomeTitle": { "message": "Thank you for installing!" },
+  "stepPinTitle": { "message": "Pin the Extension" },
+  "stepPinDesc1": { "message": "Click the 🧩 (puzzle) icon in the browser toolbar, then click the 📌 (pin) icon next to this extension." },
+  "stepPinDesc2": { "message": "This is required to access the ON/OFF switch." },
+  "stepUsageTitle": { "message": "How to Use" },
+  "stepUsageDesc": { "message": "Click the icon, turn the switch <b>ON</b>, and reload the page to enable rewind." },
+  "pinGuideImg": { "message": "images/pin_guide_en.png" },
+  "usageGuideImg": { "message": "images/usage_guide_en.png" },
+  "PopupTitle": { "message": "Enable YouTube DVR -PRO-" },
+  "historyLink": { "message": "Changelog" },
+  "contactLabel": { "message": "Support:" },
+  
+  "historyPageTitle": { "message": "Changelog" }
+}

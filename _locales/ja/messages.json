@@ -1,0 +1,23 @@
+{
+  "appName": { "message": "Enable YouTube DVR -PRO- YouTubeライブの巻き戻し(DVR)を強制的に有効化します。" },
+  "appDesc": { "message": "YouTubeライブの巻き戻し(DVR)を強制的に有効化します。" },
+  "statusLabel": { "message": "現在の状態: " },
+  "statusOn": { "message": "ON" },
+  "statusOff": { "message": "OFF" },
+  "reloadMsg": { "message": "設定を反映するには更新が必要です" },
+  "reloadBtn": { "message": "↻ ページを更新" },
+  
+  "welcomeTitle": { "message": "インストールありがとうございます！" },
+  "stepPinTitle": { "message": "拡張機能をピン留めする" },
+  "stepPinDesc1": { "message": "ブラウザ右上の 🧩 (パズル) アイコンをクリックし、この拡張機能の横にある 📌 (ピン) アイコンをクリックして固定してください。" },
+  "stepPinDesc2": { "message": "スイッチを切り替えるために必要です。" },
+  "stepUsageTitle": { "message": "使い方" },
+  "stepUsageDesc": { "message": "アイコンをクリックしてスイッチを<b>ON</b>にし、ページをリロードすると巻き戻しが可能になります。" },
+  "pinGuideImg": { "message": "images/pin_guide_ja.png" },
+  "usageGuideImg": { "message": "images/usage_guide_ja.png" },
+  "PopupTitle": { "message": "Enable YouTube DVR -PRO-" },
+  "historyLink": { "message": "更新履歴" },
+  "contactLabel": { "message": "不具合等の連絡先:" },
+  
+  "historyPageTitle": { "message": "更新履歴" }
+}

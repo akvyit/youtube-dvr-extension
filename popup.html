@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Popup</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="app-title" data-i18n="PopupTitle"></div>
+      <div class="app-desc" data-i18n="appDesc"></div>
+    </div>
+    
+    <div class="main-content">
+      <button id="toggleButton" class="power-button">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64">
+          <path d="M13 3h-2v10h2V3zm4.83 2.17l-1.42 1.42C17.99 7.86 19 9.81 19 12c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.19 1.01-4.14 2.58-5.42L6.17 5.17C4.23 6.82 3 9.26 3 12c0 4.97 4.03 9 9 9s9-4.03 9-9c0-2.74-1.23-5.18-3.17-6.83z"/>
+        </svg>
+      </button>
+      
+      <div id="reloadMessage" class="reload-message" style="display: none;">
+        <p data-i18n="reloadMsg"></p>
+        <button id="reloadButton" class="reload-btn" data-i18n="reloadBtn"></button>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div id="statusText">
+        <span data-i18n="statusLabel"></span><span id="statusValue">OFF</span>
+      </div>
+      
+      <div class="footer-info">
+        <a href="history.html" target="_blank" class="footer-link" data-i18n="historyLink"></a>
+        <div class="contact-area">
+          <span data-i18n="contactLabel"></span><br>
+          <a href="mailto:support@example.com" class="footer-link mail-link">akvyit.dev@gmail.com</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
